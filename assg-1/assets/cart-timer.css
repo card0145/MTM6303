@@ -1,0 +1,15 @@
+
+.jstimer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  	margin-top: 25px;
+}
+
+
+.clockdiv {
+    background-color: #576F3B;
+    color: white;
+    padding: 10px 14px;
+   
+}
